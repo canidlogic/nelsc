@@ -208,7 +208,7 @@ The NELSC application is a set of C language source and header files
 that has no dependencies apart from the standard library.  Building the
 application might be as simple as:
 
-> gcc -o nelsc *.c
+> `gcc -o nelsc *.c`
 
 Running the program without any arguments prints out a list of all the
 subprograms that are supported.  To run a particular subprogram, name
@@ -216,7 +216,7 @@ the subprogram as the first argument and then any further parameters as
 additional arguments after that.  For example, to report information
 about the NELSC date 3V:14-1, issue the following command:
 
-> ./nelsc date 3V:14-1
+> `./nelsc date 3V:14-1`
 
 ## 3. Contact information
 
