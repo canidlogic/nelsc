@@ -229,9 +229,9 @@ Noah Johnson | noah.johnson@canidlogic.com | https://github.com/nomejoh
 The NELSC application was written by Noah Johnson for Canidlogic (a
 service of Multimedia Data Technology, Inc.):
 
-Organization | Website                   | GitHub
------------- | ------------------------- | -----------------------------
-Canidlogic   | http://www.canidlogic.com | https://github.com/canidlogic
+Organization| Website                    | GitHub
+------------| -------------------------  | -----------------------------
+Canidlogic  | https://www.canidlogic.com | https://github.com/canidlogic
 
 This software is provided under an MIT license, the details of which can
 be read in the LICENSE file.
