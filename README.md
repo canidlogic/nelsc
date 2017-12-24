@@ -1,7 +1,7 @@
 # NELSC Application
 
 The Nome Epoch Lunisolar Calendar (NELSC) application, developed by
-Canidlogic (http://www.canidlogic.com)
+Noah Johnson (https://www.canidlogic.com)
 
 This is the official implementation of the NELSC calendar algorithms.
 This README file describes the basic rules of the calendar system and
@@ -225,13 +225,6 @@ The NELSC calendar system was designed by Noah Johnson:
 Name         | Email                       | GitHub
 ------------ | --------------------------- | --------------------------
 Noah Johnson | noah.johnson@canidlogic.com | https://github.com/nomejoh
-
-The NELSC application was written by Noah Johnson for Canidlogic (a
-service of Multimedia Data Technology, Inc.):
-
-Organization| Website                    | GitHub
-------------| -------------------------  | -----------------------------
-Canidlogic  | https://www.canidlogic.com | https://github.com/canidlogic
 
 This software is provided under an MIT license, the details of which can
 be read in the LICENSE file.
